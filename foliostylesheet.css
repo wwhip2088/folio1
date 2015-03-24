@@ -1,0 +1,35 @@
+/* Restaurant Flip CSS */
+
+body {
+	
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	margin: 0px 0px 0px 0px;
+}
+
+h2 {
+	text-align: center;
+}
+
+
+/*
+ul.dropdown-menu {
+	text-align: center;
+}
+
+
+
+  
+  
+ ul {
+	list-style-type:none;
+	text-align: center;
+}
+*/
