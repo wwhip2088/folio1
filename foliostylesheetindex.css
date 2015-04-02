@@ -15,15 +15,16 @@ h1 {
 }
 
 h2 {
-	text-align: center;
+
 	
 }
 
-img.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.carousel-inner > .item > img {
+    margin: 0 auto;
 }
+
+
+
 
 /*
 ul.dropdown-menu {
