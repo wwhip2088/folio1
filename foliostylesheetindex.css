@@ -1,10 +1,11 @@
-/* Restaurant Flip CSS */
+/* Index Portfolio Style Sheet */
 
 body {
 	
 	margin: 0;
 	padding: 0;
 	width: 100%;
+	background-image: url("paisley.png");
 	
 }
 
